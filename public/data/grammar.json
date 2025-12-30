@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "category": "疑问句",
+    "title": "一般疑问句的三种形式",
+    "content": "法语中有三种方式构成一般疑问句：\n\n1. **语调疑问句**：保持陈述句语序，用升调表示疑问\n   - Tu es musicien ? (你是音乐家吗？)\n   - Vous êtes libre ? (您有空吗？)\n\n2. **Est-ce que 疑问句**：在陈述句前加 Est-ce que\n   - Est-ce que vous êtes musicien ? (您是音乐家吗？)\n   - Est-ce qu'on fait du tennis ? (我们打网球吗？)\n\n3. **倒装疑问句**：主语和动词倒装，中间加连字符\n   - Êtes-vous musicien ? (您是音乐家吗？)\n   - Venez-vous avec moi ? (您和我一起来吗？)\n   - 注意：如果动词以元音结尾，第三人称单数倒装时需要加-t-\n   - Va-t-il au cinéma ? (他去电影院吗？)",
+    "examples": "[{\"french\":\"Tu comprends ?\",\"chinese\":\"你懂吗？（语调疑问句）\"},{\"french\":\"Est-ce que c'est un cadeau ?\",\"chinese\":\"这是礼物吗？（Est-ce que疑问句）\"},{\"french\":\"Avez-vous rendez-vous ?\",\"chinese\":\"您有约会吗？（倒装疑问句）\"}]",
+    "unit": "U1",
+    "lesson": "L1",
+    "order": 1,
+    "createdAt": "2025-12-27T14:07:30.000Z"
+  },
+  {
+    "id": 2,
+    "category": "疑问句",
+    "title": "特殊疑问句",
+    "content": "使用疑问词构成的疑问句：\n\n**常用疑问词：**\n- **Qui** (谁): Qui est-ce ? (这是谁？)\n- **Que / Qu'est-ce que** (什么): Qu'est-ce que c'est ? (这是什么？)\n- **Comment** (怎样): Comment ça va ? (最近怎么样？)\n- **Où** (哪里): Où allez-vous ? (您去哪里？)\n- **Quand** (什么时候): Quand partez-vous ? (您什么时候出发？)\n- **Pourquoi** (为什么): Pourquoi êtes-vous triste ? (您为什么伤心？)\n- **Combien** (多少): Combien ça coûte ? (这值多少钱？)\n- **Quel/Quelle** (哪个，什么): Quelle heure est-il ? (现在几点？)",
+    "examples": "[{\"french\":\"Qui est-ce ?\",\"chinese\":\"这是谁？\"},{\"french\":\"Qu'est-ce qu'on fait ?\",\"chinese\":\"我们做什么？\"},{\"french\":\"Quelle heure est-il ?\",\"chinese\":\"现在几点钟？\"}]",
+    "unit": "U1",
+    "lesson": "L2",
+    "order": 2,
+    "createdAt": "2025-12-27T14:07:30.000Z"
+  },
+  {
+    "id": 3,
+    "category": "命令式",
+    "title": "命令式的构成和用法",
+    "content": "命令式用于表达命令、请求、建议等。只有三个人称：tu, nous, vous。\n\n**构成规则：**\n1. 去掉主语人称代词\n2. 第一组动词tu的命令式去掉词尾-s\n3. être, avoir, savoir等不规则动词有特殊形式\n\n**例子：**\n- **Tu形式**：\n  - Regarde ! (看！) - 第一组动词去掉s\n  - Viens ! (来吧！)\n  - Assieds-toi ! (坐下！) - 代动词\n\n- **Nous形式**：\n  - Allons au cinéma ! (我们去电影院吧！)\n  - Dépêchons-nous ! (我们快点！)\n\n- **Vous形式**：\n  - Apprenez ! (学吧！)\n  - Venez ! (来吧！)\n  - Mettez-vous ici ! (到这里来！)",
+    "examples": "[{\"french\":\"Excuse-moi !\",\"chinese\":\"对不起！（tu的命令式）\"},{\"french\":\"Regardez !\",\"chinese\":\"看！（vous的命令式）\"},{\"french\":\"Dépêchons-nous !\",\"chinese\":\"快点！（nous的命令式）\"}]",
+    "unit": "U1",
+    "lesson": "L4",
+    "order": 3,
+    "createdAt": "2025-12-27T14:07:30.000Z"
+  },
+  {
+    "id": 4,
+    "category": "否定句",
+    "title": "否定句的构成",
+    "content": "法语否定句用 ne ... pas 包围动词构成。\n\n**基本结构：**\n主语 + ne + 动词 + pas\n\n**例子：**\n- Je ne sais pas. (我不知道。)\n- Il ne travaille pas. (他不工作。)\n- Ce n'est pas un cadeau. (这不是礼物。)\n- Vous n'êtes pas en retard. (您没有迟到。)\n\n**注意事项：**\n1. ne 在元音或哑音h前省略为 n'\n2. 口语中 ne 常常省略，只保留 pas",
+    "examples": "[{\"french\":\"Je ne sais pas.\",\"chinese\":\"我不知道。\"},{\"french\":\"Elle n'est pas musicienne.\",\"chinese\":\"她不是音乐家。\"},{\"french\":\"Nous n'allons pas à la campagne.\",\"chinese\":\"我们不去乡村。\"}]",
+    "unit": "U1",
+    "lesson": "L2",
+    "order": 4,
+    "createdAt": "2025-12-27T14:07:30.000Z"
+  },
+  {
+    "id": 5,
+    "category": "冠词",
+    "title": "不定冠词和定冠词",
+    "content": "**不定冠词 (un, une, des)：**\n- un (阳性单数): un accident (一个事故)\n- une (阴性单数): une photo (一张照片)\n- des (复数): des amis (一些朋友)\n\n**定冠词 (le, la, l', les)：**\n- le (阳性单数): le café (咖啡馆)\n- la (阴性单数): la maison (房子)\n- l' (元音或哑音h前): l'appartement (公寓)\n- les (复数): les vacances (假期)\n\n**缩合冠词：**\n- à + le = au: au cinéma (在电影院)\n- à + les = aux: aux champignons (配蘑菇)\n- de + le = du: du vin (一些葡萄酒)\n- de + les = des: des Champs-Élysées (香榭丽舍大街的)",
+    "examples": "[{\"french\":\"un accident\",\"chinese\":\"一个事故\"},{\"french\":\"la campagne\",\"chinese\":\"乡村\"},{\"french\":\"au restaurant\",\"chinese\":\"在餐厅\"}]",
+    "unit": "U1",
+    "lesson": "L1",
+    "order": 5,
+    "createdAt": "2025-12-27T14:07:30.000Z"
+  },
+  {
+    "id": 6,
+    "category": "冠词",
+    "title": "部分冠词",
+    "content": "部分冠词用于表示不可数名词的一部分。\n\n**形式：**\n- du (阳性): du pain (一些面包)\n- de la (阴性): de la moutarde (一些芥末酱)\n- de l' (元音前): de l'eau (一些水)\n- des (复数可数名词): des escargots (一些蜗牛)\n\n**用法：**\n1. 表示不确定的数量\n   - Je bois du vin. (我喝一些葡萄酒。)\n   - Il mange de la salade. (他吃一些沙拉。)\n\n2. 否定句中部分冠词变为 de\n   - Je ne bois pas de vin. (我不喝葡萄酒。)\n   - Il ne mange pas de viande. (他不吃肉。)",
+    "examples": "[{\"french\":\"du lapin à la moutarde\",\"chinese\":\"芥末酱兔肉\"},{\"french\":\"de l'eau\",\"chinese\":\"水\"},{\"french\":\"Je ne bois pas de vin.\",\"chinese\":\"我不喝葡萄酒。\"}]",
+    "unit": "U2",
+    "lesson": "L2",
+    "order": 6,
+    "createdAt": "2025-12-27T14:07:30.000Z"
+  },
+  {
+    "id": 7,
+    "category": "代词",
+    "title": "人称代词",
+    "content": "**主语人称代词：**\n- je (我), tu (你), il/elle (他/她)\n- nous (我们), vous (您/你们), ils/elles (他们/她们)\n\n**重读人称代词：**\n用于强调或介词后\n- moi (我), toi (你), lui/elle (他/她)\n- nous (我们), vous (您/你们), eux/elles (他们/她们)\n\n**用法：**\n1. 强调：Moi, je suis chanteur. (我，我是歌手。)\n2. 介词后：avec moi (和我), chez toi (在你家)\n3. 单独使用：Et toi ? (你呢？)",
+    "examples": "[{\"french\":\"Moi, je préfère rester.\",\"chinese\":\"我，我宁愿待着。\"},{\"french\":\"Et toi ?\",\"chinese\":\"你呢？\"},{\"french\":\"chez moi\",\"chinese\":\"我家\"}]",
+    "unit": "U1",
+    "lesson": "L1",
+    "order": 7,
+    "createdAt": "2025-12-27T14:07:30.000Z"
+  },
+  {
+    "id": 8,
+    "category": "代词",
+    "title": "代副词 y 和 en",
+    "content": "**代副词 y：**\n替代 à/dans/sur + 地点名词\n- J'habite à Paris. → J'y habite. (我住在巴黎。→ 我住在那儿。)\n- On va à la campagne. → On y va. (我们去乡村。→ 我们去那儿。)\n\n**代副词 en：**\n替代 de + 名词\n- Je viens de Paris. → J'en viens. (我来自巴黎。→ 我从那儿来。)\n- Il parle de son travail. → Il en parle. (他谈论他的工作。→ 他谈论它。)",
+    "examples": "[{\"french\":\"On y va.\",\"chinese\":\"我们去那儿。\"},{\"french\":\"J'y habite.\",\"chinese\":\"我住在那儿。\"}]",
+    "unit": "U1",
+    "lesson": "L5",
+    "order": 8,
+    "createdAt": "2025-12-27T14:07:30.000Z"
+  },
+  {
+    "id": 9,
+    "category": "时态",
+    "title": "直陈式现在时",
+    "content": "直陈式现在时用于表达：\n1. 现在的动作或状态\n2. 习惯性动作\n3. 普遍真理\n\n**第一组动词变位规则：**\n去掉-er，加上：-e, -es, -e, -ons, -ez, -ent\n例：parler → je parle, tu parles, il parle, nous parlons, vous parlez, ils parlent\n\n**第二组动词变位规则：**\n去掉-ir，加上：-is, -is, -it, -issons, -issez, -issent\n例：finir → je finis, tu finis, il finit, nous finissons, vous finissez, ils finissent\n\n**第三组动词：**\n不规则变位，需要逐个记忆",
+    "examples": "[{\"french\":\"Je travaille à Paris.\",\"chinese\":\"我在巴黎工作。\"},{\"french\":\"Nous finissons le repas.\",\"chinese\":\"我们结束这顿饭。\"},{\"french\":\"Ils vont au cinéma.\",\"chinese\":\"他们去电影院。\"}]",
+    "unit": "U1",
+    "lesson": "L1",
+    "order": 9,
+    "createdAt": "2025-12-27T14:07:30.000Z"
+  },
+  {
+    "id": 10,
+    "category": "介词",
+    "title": "常用介词",
+    "content": "**地点介词：**\n- **à**: 在（城市、小地点）\n  - à Paris (在巴黎), à la campagne (在乡村)\n- **dans**: 在...里\n  - dans la maison (在房子里)\n- **sur**: 在...上\n  - sur la table (在桌子上)\n- **devant**: 在...前面\n  - devant le théâtre (在剧院前面)\n- **derrière**: 在...后面\n  - derrière la maison (在房子后面)\n- **entre**: 在...之间\n  - entre Paris et Orly (在巴黎和奥利之间)\n- **près de**: 在...附近\n  - près de la ville (在城市附近)\n- **au bord de**: 在...旁边（河、海等）\n  - au bord de la rivière (在河边)\n\n**时间介词：**\n- **à**: 在（钟点）\n  - à huit heures (在八点)\n- **en**: 在（月份、年份、季节）\n  - en mai (在五月)",
+    "examples": "[{\"french\":\"à la campagne\",\"chinese\":\"在乡村\"},{\"french\":\"dans le restaurant\",\"chinese\":\"在餐厅里\"},{\"french\":\"devant la Comédie-Française\",\"chinese\":\"在法兰西喜剧院前面\"}]",
+    "unit": "U1",
+    "lesson": "L3",
+    "order": 10,
+    "createdAt": "2025-12-27T14:07:31.000Z"
+  },
+  {
+    "id": 11,
+    "category": "形容词",
+    "title": "形容词的性数配合",
+    "content": "法语形容词要与所修饰的名词在性（阳性/阴性）和数（单数/复数）上保持一致。\n\n**基本规则：**\n1. **阴性形式**：通常在阳性形式后加-e\n   - grand → grande (大的)\n   - petit → petite (小的)\n\n2. **复数形式**：通常在单数形式后加-s\n   - grand → grands (阳性复数)\n   - grande → grandes (阴性复数)\n\n**特殊变化：**\n- 以-e结尾的形容词阴性不变：triste → triste\n- 以-x结尾变-se：curieux → curieuse (好奇的)\n- 以-f结尾变-ve：actif → active (积极的)\n- 不规则变化：\n  - bon → bonne (好的)\n  - blanc → blanche (白色的)\n  - vieux → vieille (老的)",
+    "examples": "[{\"french\":\"un bon film\",\"chinese\":\"一部好电影（阳性）\"},{\"french\":\"une bonne idée\",\"chinese\":\"一个好主意（阴性）\"},{\"french\":\"des jeunes gens\",\"chinese\":\"年轻人（复数）\"}]",
+    "unit": "U1",
+    "lesson": "L3",
+    "order": 11,
+    "createdAt": "2025-12-27T14:07:31.000Z"
+  },
+  {
+    "id": 12,
+    "category": "句型",
+    "title": "Il y a 句型",
+    "content": "**Il y a** 表示\"有\"，用于描述某地存在某物或某人。\n\n**用法：**\n- Il y a + 名词\n- Il y a un concert. (有一场音乐会。)\n- Il y a des arbres. (有一些树。)\n\n**否定形式：**\n- Il n'y a pas de + 名词\n- Il n'y a pas de bruit. (没有噪音。)\n\n**疑问形式：**\n- Y a-t-il ... ? / Est-ce qu'il y a ... ?\n- Y a-t-il un restaurant ? (有餐厅吗？)",
+    "examples": "[{\"french\":\"Il y a un concert.\",\"chinese\":\"有一场音乐会。\"},{\"french\":\"Il n'y a pas de bruit.\",\"chinese\":\"没有噪音。\"},{\"french\":\"Y a-t-il un parc ?\",\"chinese\":\"有公园吗？\"}]",
+    "unit": "U1",
+    "lesson": "L3",
+    "order": 12,
+    "createdAt": "2025-12-27T14:07:31.000Z"
+  },
+  {
+    "id": 13,
+    "category": "句型",
+    "title": "Il faut 句型",
+    "content": "**Il faut** 表示\"必须、需要\"，是非人称动词。\n\n**用法：**\n1. **Il faut + 名词**：需要...\n   - Il faut du temps. (需要时间。)\n   - Il faut de la farine. (需要面粉。)\n\n2. **Il faut + 动词不定式**：必须做...\n   - Il faut partir. (必须出发。)\n   - Il faut travailler. (必须工作。)\n\n**否定形式：**\n- Il ne faut pas + 动词不定式\n- Il ne faut pas partir. (不能出发。)",
+    "examples": "[{\"french\":\"Il faut de la farine.\",\"chinese\":\"需要面粉。\"},{\"french\":\"Il faut préparer le repas.\",\"chinese\":\"必须准备饭菜。\"}]",
+    "unit": "U2",
+    "lesson": "L5",
+    "order": 13,
+    "createdAt": "2025-12-27T14:07:31.000Z"
+  },
+  {
+    "id": 30001,
+    "category": "形容词",
+    "title": "形容词的阴阳性变化",
+    "content": "法语形容词需要与所修饰的名词在性和数上保持一致。\n\n**阴性变化规则：**\n\n1. **一般规则**：阳性形式 + e\n   - petit → petite (小的)\n   - grand → grande (大的)\n   - français → française (法国的)\n\n2. **特殊变化**：\n   - 以-e结尾的形容词：阴阳性同形\n     * jeune → jeune (年轻的)\n     * rouge → rouge (红色的)\n   \n   - 以-er结尾：-er → -ère\n     * cher → chère (贵的)\n     * premier → première (第一的)\n   \n   - 以-eux结尾：-eux → -euse\n     * heureux → heureuse (幸福的)\n     * sérieux → sérieuse (认真的)\n   \n   - 以-f结尾：-f → -ve\n     * actif → active (积极的)\n     * neuf → neuve (新的)\n   \n   - 双写辅音字母 + e\n     * bon → bonne (好的)\n     * gros → grosse (粗的)\n\n3. **不规则变化**：\n   - beau → belle (美丽的)\n   - nouveau → nouvelle (新的)\n   - vieux → vieille (老的)\n   - blanc → blanche (白色的)\n   - long → longue (长的)\n\n**注意**：形容词的位置：大部分形容词放在名词后面，少数常用形容词（如grand, petit, beau, bon, mauvais, jeune, vieux, nouveau）放在名词前面。",
+    "examples": "un petit garçon / une petite fille\nun livre intéressant / une histoire intéressante\nIl est heureux. / Elle est heureuse.\nC'est un beau jour. / C'est une belle journée.",
+    "unit": "U1",
+    "lesson": "L5",
+    "order": 14,
+    "createdAt": "2025-12-27T16:05:41.000Z"
+  },
+  {
+    "id": 30002,
+    "category": "形容词",
+    "title": "形容词的复数变化",
+    "content": "法语形容词的复数形式需要与所修饰的名词保持一致。\n\n**复数变化规则：**\n\n1. **一般规则**：单数形式 + s\n   - petit → petits (m.pl.)\n   - petite → petites (f.pl.)\n   - grand → grands / grandes\n\n2. **特殊规则**：\n   - 以-s, -x结尾的阳性形容词：单复数同形\n     * français → français (法国的)\n     * heureux → heureux (幸福的)\n   \n   - 以-eau结尾：+ x\n     * beau → beaux (美丽的)\n     * nouveau → nouveaux (新的)\n   \n   - 以-al结尾：-al → -aux\n     * national → nationaux (国家的)\n     * spécial → spéciaux (特殊的)\n\n**四种形式总结：**\n- 阳性单数：petit\n- 阴性单数：petite\n- 阳性复数：petits\n- 阴性复数：petites\n\n**注意**：联诵规则 - 当形容词以辅音结尾，后面的名词以元音开头时，需要联诵。例如：un petit_ami [ɛ̃ pəti tami]",
+    "examples": "un petit chat / une petite chatte\ndes petits chats / des petites chattes\nIls sont français. / Elles sont françaises.\nde beaux livres / de belles histoires",
+    "unit": "U2",
+    "lesson": "L3",
+    "order": 15,
+    "createdAt": "2025-12-27T16:05:41.000Z"
+  }
+]
